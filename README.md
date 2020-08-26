@@ -1,5 +1,5 @@
 
-### Data Science Specialization
+### Data Science Specialization.
 
 These are the course materials for the Johns Hopkins Data Science Specialization on Coursera
 
